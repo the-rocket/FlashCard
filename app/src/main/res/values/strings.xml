@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SaveWords</string>
+    <string name="action_settings">Settings</string>
+    <string name="refresh">refresh</string>
+
+    <string name="new_word">New Word</string>
+</resources>
